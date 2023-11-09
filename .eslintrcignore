@@ -1,0 +1,7 @@
+*.sh
+node_modules
+dist
+/public
+
+
+components.d.ts
